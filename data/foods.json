@@ -1,0 +1,83 @@
+[
+    {
+      "_id": "hasudhiasouhdas546546541561",
+      "category_id": "1",
+      "img": "../assests/teriaki.jpg",
+      "title": "Teriyaki Chicken Bowl",
+      "price": "9.99",
+      "description": "Grilled chicken served on a bed of rice with teriyaki sauce, steamed vegetables, and sesame seeds."
+    },
+    {
+      "_id": "sdaaoijdawsoidas5d678as4d1",
+      "category_id": "2",
+      "img": "../assests/pizza.jpg",
+      "title": "Margherita Pizza",
+      "price": "11.99",
+      "description": "A classic pizza topped with tomato sauce, mozzarella cheese, and fresh basil."
+    },
+    {
+      "_id": "asddgyashd548545631",
+      "category_id": "3",
+      "img": "../assests/burger.jpg",
+      "title": "Beef Burger",
+      "price": "8.99",
+      "description": "A juicy beef patty topped with lettuce, tomato, onion, and your choice of cheese. Served with fries."
+    },
+    {
+      "_id": "sadhuiasdgoaw548741651",
+      "category_id": "4",
+      "img": "../assests/pad thai.jpg",
+      "title": "Pad Thai",
+      "price": "12.99",
+      "description": "Stir-fried rice noodles with shrimp, tofu, bean sprouts, and peanuts in a tangy tamarind sauce."
+    },
+    {
+      "_id": "sadhudigawsd78651521",
+      "category_id": "5",
+      "img": "../assests/Baby-Back-Ribs-foodiecrush.com-3731-1024x1536.jpg",
+      "title": "BBQ Ribs",
+      "price": "16.99",
+      "description": "Fall-off-the-bone tender pork ribs smothered in BBQ sauce, served with coleslaw and fries."
+    },
+    {
+      "_id": "6wedusdbayudgw7778",
+      "category_id": "6",
+      "img": "../assests/salad.jpg",
+      "title": "Caesar Salad",
+      "price": "7.99",
+      "description": "Crisp romaine lettuce with shaved parmesan cheese, croutons, and a creamy Caesar dressing."
+    },
+    {
+      "_id": "7duwhuiqhuihwdgiuasohdasuoihd635",
+      "category_id": "7",
+      "img": "../assests/soup.jpg",
+      "title": "Miso Soup",
+      "price": "2.99",
+      "description": "A traditional Japanese soup made with miso paste, tofu, seaweed, and scallions."
+    },
+    {
+      "_id": "usjahdailuhdawsid447",
+      "category_id": "8",
+      "img": "../assests/fish tacos.jpg",
+      "title": "Fish Tacos",
+      "price": "10.99",
+      "description": "Grilled fish, shredded cabbage, and a tangy sauce in soft tortillas, served with rice and beans."
+    },
+    {
+      "_id": "sdajnuawoihduawsoiddsad244",
+      "category_id": "9",
+      "img": "../assests/Chicken Alfredo.webp",
+      "title": "Chicken Alfredo",
+      "price": "13.99",
+      "description": "Fettuccine pasta in a creamy Alfredo sauce with grilled chicken, mushrooms, and garlic."
+    },
+    {
+      "_id": "shadujgd54874521541saddaa",
+      "category_id": "10",
+      "img": "../assests/Falafel Wrap.jpg",
+      "title": "Falafel Wrap",
+      "price": "8.99",
+      "description": "A warm pita filled with crispy falafel, lettuce, tomato, cucumber, and tahini sauce."
+    }
+  ]
+  

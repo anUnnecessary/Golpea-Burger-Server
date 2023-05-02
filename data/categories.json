@@ -1,0 +1,34 @@
+[
+    {
+        "id": "0",
+        "name": "Bengali Food"
+    },
+    {
+        "id": "1",
+        "name": "Italiano Food"
+    },
+    {
+        "id": "2",
+        "name": "Mexican Food"
+    },
+    {
+        "id": "3",
+        "name": "Thai Food"
+    },
+    {
+        "id": "4",
+        "name": "American Food"
+    },
+    {
+        "id": "5",
+        "name": "Russian Food"
+    },
+    {
+        "id": "6",
+        "name": "Desert"
+    },
+    {
+        "id": "7",
+        "name": "Soft Drinks"
+    }
+]
